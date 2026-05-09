@@ -7,7 +7,6 @@ Sou um desenvolvedor frontend apaixonado por criar interfaces bonitas e funciona
 ---
 
 ## 🚀 No que estou focado agora?
-
 - 🎨 **UI Design & Frontend:** Desenvolvendo interfaces modernas com React, TypeScript e Tailwind
 - 📱 **Mobile:** Criando apps com Flutter e React Native
 - 🛠️ **Design System:** Construindo componentes reutilizáveis e identidade visual consistente
@@ -15,7 +14,6 @@ Sou um desenvolvedor frontend apaixonado por criar interfaces bonitas e funciona
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -32,9 +30,6 @@ Sou um desenvolvedor frontend apaixonado por criar interfaces bonitas e funciona
 ---
 
 ## 🎯 Além do Código
-
-Quando não estou desenvolvendo:
-
 - 🎨 **Design:** Explorando tendências de UI/UX e identidade visual
 - 📱 **Apps:** Testando e analisando apps que inspiram
 - 🎮 **Games & Cultura:** Sempre de olho em novas referências criativas
@@ -42,7 +37,14 @@ Quando não estou desenvolvendo:
 ---
 
 ## 📬 Vamos nos conectar?
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-henrique-7b3a72389)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pauloalves_dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pauloalvess.dev@gmail.com)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pauloalves0/Pauloalves0/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pauloalves0/Pauloalves0/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pauloalves0/Pauloalves0/output/github-snake.svg">
+</picture>
