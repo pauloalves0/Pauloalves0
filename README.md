@@ -37,7 +37,7 @@ Quando não estou desenvolvendo:
 
 - 🎨 **Design:** Explorando tendências de UI/UX e identidade visual
 - 📱 **Apps:** Testando e analisando apps que inspiram
-- 🌊 **Caraguatatuba:** Aproveitando o litoral norte de SP
+- 🎮 **Games & Cultura:** Sempre de olho em novas referências criativas
 
 ---
 
